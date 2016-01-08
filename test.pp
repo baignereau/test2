@@ -1,7 +1,7 @@
 node 'name' {
 
   class {'class':
-    purpose => 'test server',
+    purpose => 'test server 2',
   }
 
 }
